@@ -6,3 +6,7 @@
  \
 기술 : Python, sklearn, numpy, pyplot, seaborn, plotly, shap\
 모델 : LogisticRegression, RandomForestClassifier, XGBClassifier, CatBoostClassifier\
+ \
+데이터 출처 :
+https://www.kaggle.com/datasets/geomack/spotifyclassification
+https://www.kaggle.com/datasets/sashankpillai/spotify-top-200-charts-20202021
